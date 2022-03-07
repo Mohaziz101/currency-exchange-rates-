@@ -1,21 +1,13 @@
 Currency Converter App
 
-App Description
+App Description.
 
-Calculate live currency exchange rates with the Currency Converter. Convert between all major global currencies.
+Whether you want to check all your favorite currencies at a glance, quickly calculate prices in a foreign country, or just browse the banknotes for far-flung countries, you've found the ideal currency converter and exchange rate tool to use both at home and when traveling abroad.
 
-This App will be a simple money converter like when you search in google for how much is the rate of a certain currency and will show up immediately the rate and two input boxes to write the amount you wish to convert than it will calculate it according to the rate exchange
+It combines an easy-to-use, modern design with an accurate, commercial data feed that is updated. 
 
-MUST-HAVE
+Find whatever you need to convert in the extensive, searchable database containing almost every currency that exists, then save to your favorites with a single tap.
 
-Create two select boxes with multiple options of currency to make the exchange and compare the currency.
-Create two input boxes to write the amount of the currency.
-Create API of the exchange rate by registering in https://app.exchangerate-api.com/
-Add the ability to view the result immediately when the user writes the amount.
-Add the ability to view the exchange rate immediately when the user chooses the currencies. NOTE /needs to have loading/error handling for the interaction with the API.
-Add the ability to calculate the amount users insert to the App according to the exchange rates
-Prepare the repository.
-NICE-TO-HAVE
+The currency converter comes with a handy in-built calculator and you can choose to convert using the current live exchange rates .
 
-Add a button to swap between the two chosen currencies.
-Styling the page to have a nice-looking currency exchange app.
+With the  Currency Converter app, you can do it in one quick process. Check live mid-market rates in the Currency Converter, No need to waste time anywhere else.
